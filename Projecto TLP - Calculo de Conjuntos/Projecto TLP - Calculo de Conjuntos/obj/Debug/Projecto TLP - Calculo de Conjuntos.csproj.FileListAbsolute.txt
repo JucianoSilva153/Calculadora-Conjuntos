@@ -1,0 +1,11 @@
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto TLP - Calculo de Conjuntos\Projecto TLP - Calculo de Conjuntos\bin\Debug\Projecto TLP - Calculo de Conjuntos.exe.config
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto TLP - Calculo de Conjuntos\Projecto TLP - Calculo de Conjuntos\bin\Debug\Projecto TLP - Calculo de Conjuntos.exe
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto TLP - Calculo de Conjuntos\Projecto TLP - Calculo de Conjuntos\bin\Debug\Projecto TLP - Calculo de Conjuntos.pdb
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto TLP - Calculo de Conjuntos\Projecto TLP - Calculo de Conjuntos\obj\Debug\Projecto TLP - Calculo de Conjuntos.csprojResolveAssemblyReference.cache
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto TLP - Calculo de Conjuntos\Projecto TLP - Calculo de Conjuntos\obj\Debug\Projecto_TLP___Calculo_de_Conjuntos.Form1.resources
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto TLP - Calculo de Conjuntos\Projecto TLP - Calculo de Conjuntos\obj\Debug\Projecto_TLP___Calculo_de_Conjuntos.Properties.Resources.resources
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto TLP - Calculo de Conjuntos\Projecto TLP - Calculo de Conjuntos\obj\Debug\Projecto TLP - Calculo de Conjuntos.csproj.GenerateResource.Cache
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto TLP - Calculo de Conjuntos\Projecto TLP - Calculo de Conjuntos\obj\Debug\Projecto TLP - Calculo de Conjuntos.exe
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto TLP - Calculo de Conjuntos\Projecto TLP - Calculo de Conjuntos\obj\Debug\Projecto TLP - Calculo de Conjuntos.pdb
+C:\Users\JUCIANO SILVA\documents\visual studio 2015\Projects\Projecto TLP - Calculo de Conjuntos\Projecto TLP - Calculo de Conjuntos\obj\Debug\Projecto_TLP___Calculo_de_Conjuntos.Frm_2.resources
+C:\Users\JUCIANO SILVA\documents\visual studio 2015\Projects\Projecto TLP - Calculo de Conjuntos\Projecto TLP - Calculo de Conjuntos\obj\Debug\Projecto_TLP___Calculo_de_Conjuntos.splash_screen.resources
